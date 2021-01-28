@@ -10,11 +10,19 @@
 ### 涉及到 Windbg 的文章
 
 
+- [被 C# 的 ThreadStatic 标记的静态变量，都存放在哪里了？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487742&idx=1&sn=6c77fc2e5318eac5c91690ca451e43bd&chksm=a69863b391efeaa56ac0e7cbc2b443a1b098f05593eafea14849f3bd0bba6ce5b835275f0506&token=250896018&lang=zh_CN#rd)
+
+
+- [对 精致码农大佬 说的 Task.Run 会存在 内存泄漏 的思考](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488049&idx=1&sn=0b0e500c99822f482a7300e44351237f&chksm=a698617c91efe86a78001c6d68d1b1dea064b094641e6d6200276d6f818a10d76f0df322f785&token=250896018&lang=zh_CN#rd)
+
+
+- [linq 查询的结果会开辟新的内存吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487799&idx=1&sn=a5dd0a46913dd832a17fb5ad2131abcf&chksm=a698627a91efeb6c99ff5455c4ab96229d97011ebb76765e1d6e148a1ced54fe92e6cbe25596&token=250896018&lang=zh_CN#rd)
+
+
 - [C# Span 源码解读和应用实践](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487593&idx=1&sn=17a1244733c5f84ee7318b8de01ab919&chksm=a698632491efea32d731ccc51c84780bf1418778d5decbcb3d25f7eda5a1fe006088ea2db35f&token=1806526632&lang=zh_CN#rd)
 
 
 - [一个 Task 不够，又来一个 ValueTask ，真的学懵了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487538&idx=2&sn=542088a51ee8da815828951a411694d5&chksm=a698637f91efea69ae36e9370d9bc7562fdfb63d34ddf4eb3b81d9c53499b889be2253e0553e&token=1806526632&lang=zh_CN#rd)
-
 
 
 - [字符串太占内存了，我想了各种奇思淫巧对它进行压缩](http://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484069&idx=1&sn=9a0a2b700edc20294a5f280c39f8ad78&chksm=a69871e891eff8fe8ec369eab8fa480416ccce1cfe188ccb55409cdf42841dfa90281a16d816&token=1098575339&lang=zh_CN#rd)
